@@ -54,6 +54,40 @@ The work is a long way above what "handyman" suggests, and the range is wide:
 - **A commercial-looking interior** — glass block wall, pendant lighting, leather
   seating.
 
+## From Jonathan himself — voice note, transcribed 2026-09-17  `[verified — his own words]`
+
+Enoch sent a voice note from Jonathan. Transcribed locally with Whisper. This is the
+owner describing his own business, so it outranks every inference below it.
+
+**Who and how long**
+> "My name is Jonathan Pacheco. I'm currently owner of JP Home Improvement. Been doing
+> it for about 10 to 12 years."
+
+**What he actually covers** — wider than the Instagram bio said:
+> "Electrical, plumbing, HVAC, landscaping, outdoor lighting, outdoor fixtures."
+
+**Landscaping and outdoor fixtures are new** — neither appears in the Instagram bio, and
+both match the photographs better than "handyman" did.
+
+**What he says sets him apart** — he returns to this four separate times, so it is the
+thing he wants said:
+> "The company's very customer-oriented, so we strive on customer care... making sure
+> we're transparent with them."
+> "It's very transparent between me, the owner, and whatever they have, whether it's a
+> big project or a small project. It's the same tactic throughout."
+> "If there's something ever going wrong, we'll go right back."
+> "Whatever we start, we're not leaving a mess."
+
+**In plain terms, the four things he is promising:**
+1. You deal with the owner directly.
+2. A small job gets the same treatment as a big one.
+3. If something goes wrong afterwards, he comes back.
+4. The place is left clean.
+
+**He asked for help wording it** — *"maybe some kind of sentence that would say
+something"* — so the page phrases this properly rather than quoting him verbatim. The
+substance is his; the sentences are ours.
+
 ## Confirmed by Enoch, 2026-09-16
 
 - **The owner is Jonathan Pacheco.** "JP" is his initials. His name goes on the page.
