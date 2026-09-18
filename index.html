@@ -192,6 +192,19 @@
     .kv a,.kv b{font-size:17px}
     footer{line-height:2}
   }
+
+  /* Hero text was running the full width of a phone screen, edge to edge.
+     Inset it and hold the line length so it reads as a block, not a wall. */
+  @media (max-width:760px){
+    .hero-in{padding-left:12px;padding-right:12px}
+    .hero-in h1{max-width:15ch}
+    .hero-in p{max-width:32ch}
+  }
+  @media (max-width:430px){
+    .hero-in{padding-left:10px;padding-right:10px}
+    .hero-in h1{max-width:13ch;font-size:clamp(27px,7.6vw,34px)}
+    .hero-in p{max-width:30ch;font-size:16px}
+  }
 </style>
 </head>
 <body>
