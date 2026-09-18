@@ -79,3 +79,20 @@ He says **"JP home improvements"** — plural. His **logo says "JP HOME IMPROVEM
 **Instagram handle is @jp.homeimprovement**, both singular. The page follows the logo.
 **Worth one question:** which does he want? It is his name and it appears in the title,
 the header, the footer and the page URL.
+
+
+## Wording change to the pull quote — 2026-09-17
+
+He said **"we always will leave stuff better than we found it."** On Enoch's instruction,
+"stuff" became **"your place"** on the page:
+
+> "Big project, small project — it's the same tactic of being customer oriented.
+> **We always leave your place better than we found it.**"
+
+**Why "your place":** it covers a house and a business equally, which matters because
+several of the photographs are clearly commercial. "Job site" reads like trade jargon to a
+homeowner; "your home" would have excluded the commercial work; "it" was too vague to mean
+anything.
+
+Also dropped "will" for rhythm. **The sentence is now lightly edited rather than verbatim**
+— worth knowing, though it is his own idea on his own website, which is ordinary practice.
